@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/malam/static/css/main.69eaf48d.css",
+    "main.js": "/malam/static/js/main.38564637.js",
+    "static/js/453.46af41b6.chunk.js": "/malam/static/js/453.46af41b6.chunk.js",
+    "static/media/force.ico": "/malam/static/media/force.39562ddb613e0f18d687.ico",
+    "static/media/google1Logo.svg": "/malam/static/media/google1Logo.be9e6dcad859167418452d286726856f.svg",
+    "index.html": "/malam/index.html",
+    "main.69eaf48d.css.map": "/malam/static/css/main.69eaf48d.css.map",
+    "main.38564637.js.map": "/malam/static/js/main.38564637.js.map",
+    "453.46af41b6.chunk.js.map": "/malam/static/js/453.46af41b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69eaf48d.css",
+    "static/js/main.38564637.js"
+  ]
+}
